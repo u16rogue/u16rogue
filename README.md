@@ -1,16 +1,66 @@
-### Hi there 👋
+<details>
+  <summary>E-Mail</summary>
+  <pre>u16rogue@waifu.club</pre>
+</details>
 
-<!--
-**u16rogue/u16rogue** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<details>
+  <summary>Monero/XMR Address</summary>
+  <pre>89yEiQexDpCFm4abkhN7UWZft6dubKx9PVQR4BdwGvqFQHw4JG1ctcyULVH6eCr3n3b8KSND3vfqC3vhPsAvFyBq97nBCEk</pre>
+</details>
 
-Here are some ideas to get you started:
+<details>
+  <summary>GPG Public Key</summary>
+  <pre>
+  -----BEGIN PGP PUBLIC KEY BLOCK-----
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+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
+=7oCH
+-----END PGP PUBLIC KEY BLOCK-----
+  </pre>
+</details>
