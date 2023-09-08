@@ -4,12 +4,17 @@
 </details>
 
 <details>
+  <summary>Matrix</summary>
+  <pre>@u16rogue:matrix.org</pre>
+</details>
+
+<details>
   <summary>Monero/XMR Address</summary>
   <pre>89yEiQexDpCFm4abkhN7UWZft6dubKx9PVQR4BdwGvqFQHw4JG1ctcyULVH6eCr3n3b8KSND3vfqC3vhPsAvFyBq97nBCEk</pre>
 </details>
 
 <details>
-  <summary>GPG Public Key</summary>
+  <summary>PGP(G) Public Key</summary>
   <pre>
   -----BEGIN PGP PUBLIC KEY BLOCK-----
 
