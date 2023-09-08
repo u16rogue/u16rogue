@@ -1,6 +1,25 @@
 <details>
   <summary>E-Mail</summary>
-  <pre>u16rogue@waifu.club</pre>
+  <pre>u16rogue@proton.me</pre>
+</details>
+
+<details>
+  <summary>PGP(G)</summary>
+  <pre>
+-----BEGIN PGP PUBLIC KEY BLOCK-----
+
+mDMEZPrx/BYJKwYBBAHaRw8BAQdApivQXADdCh3tMuggyITa4+JSjLgcUxzmFDYH
+xrUAgZi0HXUxNnJvZ3VlIDx1MTZyb2d1ZUBwcm90b24ubWU+iJMEExYKADsWIQT4
+z4QICZ7xjCZn2FDG5AETa4IUlgUCZPrx/AIbAwULCQgHAgIiAgYVCgkICwIEFgID
+AQIeBwIXgAAKCRDG5AETa4IUlkdaAQDZWHolQr9ukn5nQgB3tymMf8tLMp/vnc3l
+mdtJwOmy2QEAk0adeb8qJu4Y8PUtZzYMYbgty+9uauTxpx+SrVigyQi4OARk+vH8
+EgorBgEEAZdVAQUBAQdAt+1eJfaNaoZqcROa6QWGFjwoyae9edtBmrSYVqKN8RsD
+AQgHiHgEGBYKACAWIQT4z4QICZ7xjCZn2FDG5AETa4IUlgUCZPrx/AIbDAAKCRDG
+5AETa4IUlkzqAPoC+J35SruUBhxmh6OM3kQlwKdFCc/IpH97nkoBO6lc6gEAvWBM
+n+xMRLnMmv+whqcCOSpIOC02H4bzvO/4soz8VQE=
+=rWa8
+-----END PGP PUBLIC KEY BLOCK-----
+  </pre>
 </details>
 
 <details>
@@ -11,6 +30,15 @@
 <details>
   <summary>Monero/XMR Address</summary>
   <pre>89yEiQexDpCFm4abkhN7UWZft6dubKx9PVQR4BdwGvqFQHw4JG1ctcyULVH6eCr3n3b8KSND3vfqC3vhPsAvFyBq97nBCEk</pre>
+</details>
+
+<hr>
+
+#### Old
+
+<details>
+  <summary>E-Mail</summary>
+  <pre>u16rogue@waifu.club</pre>
 </details>
 
 <details>
