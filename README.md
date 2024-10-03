@@ -25,6 +25,8 @@ n+xMRLnMmv+whqcCOSpIOC02H4bzvO/4soz8VQE=
 <details>
   <summary>SimpleX</summary>
   <pre>https://simplex.chat/contact#/?v=2-7&smp=smp%3A%2F%2Fhejn2gVIqNU6xjtGM3OwQeuk8ZEbDXVJXAlnSBJBWUA%3D%40smp16.simplex.im%2F-9WRZUQ3ghE3M1rXUQUO1fXICdXZKtpb%23%2F%3Fv%3D1-3%26dh%3DMCowBQYDK2VuAyEAnLym1RTH5LeT-FxbWN0eGXaccvKrDQgLHWB_4MUDm3E%253D%26srv%3Dp3ktngodzi6qrf7w64mmde3syuzrv57y55hxabqcq3l5p6oi7yzze6qd.onion</pre>
+  
+  ![QR Address](https://github.com/user-attachments/assets/3a744284-3ab1-4127-a949-4b45117ee169)
 </details>
 
 <details>
