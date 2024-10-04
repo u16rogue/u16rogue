@@ -32,6 +32,8 @@ n+xMRLnMmv+whqcCOSpIOC02H4bzvO/4soz8VQE=
 <details>
   <summary>Monero/XMR Address</summary>
   <pre>89yEiQexDpCFm4abkhN7UWZft6dubKx9PVQR4BdwGvqFQHw4JG1ctcyULVH6eCr3n3b8KSND3vfqC3vhPsAvFyBq97nBCEk</pre>
+
+  ![QR](https://github.com/user-attachments/assets/9116ac2f-ff92-4ed0-81b2-3bb97211ca54)
 </details>
 
 <hr>
