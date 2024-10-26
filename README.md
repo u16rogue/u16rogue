@@ -1,1 +1,1 @@
-short.moe/rogue
+https://short.moe/rogue
