@@ -1,1 +1,1 @@
-https://short.moe/rogue
+https://ushort.moe
